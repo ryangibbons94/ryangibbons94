@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ryan.gibbons94@yahoo.com**
 
-- 📄 Know about my experiences [Click for Resume](https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf)
+- 📄 Know about my experiences [Click here for Resume](https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryangibbons94&show_icons=true&theme=dark&locale=en&layout=compact" alt="ryangibbons94" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryangibbons94&show_icons=true&theme=dark&title_color=000000&locale=en" alt="ryangibbons94" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryangibbons94&show_icons=true&theme=dark&title_color=ffffff&locale=en" alt="ryangibbons94" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryangibbons94&theme=dark" alt="ryangibbons94" /></p>
+

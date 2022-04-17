@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ryan.gibbons94@yahoo.com**
 
-- 📄 Know about my experiences [https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf](https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf)
+- 📄 Know about my experiences [Click for Resume](https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

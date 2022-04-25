@@ -1,26 +1,152 @@
-<h1 align="center">Hi 👋, I'm Ryan Gibbons</h1>
-<h3 align="center">A full stack developer who is passionate about finding answers and solving problems.</h3>
 
-<p align="left"> <a href="https://twitter.com/rygibbons" target="blank"><img src="https://img.shields.io/twitter/follow/rygibbons?logo=twitter&style=for-the-badge" alt="rygibbons" /></a> </p>
+<img src="images/githubheader.png" width="100%">
 
-- 👨‍💻 All of my projects are available at [https://www.ryangibbons.dev/](https://www.ryangibbons.dev/)
-
-- 📫 How to reach me **ryan.gibbons94@yahoo.com**
-
-- 📄 Know about my experiences [Click here for Resume](https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rygibbons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rygibbons" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rygibbons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rygibbons" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ryangibbons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ryangibbons" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.ryangibbons.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rygibbons/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/RyGibbons" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/ryan-gibbons-7" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Previously a mathematics teacher, I am motivated by the power of technology as a tool for positive change. I am looking to take my knowledge and expertise to make an impact on a company with global reach.
+
+See [my website](https://www.ryangibbons.dev/) for more information!
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryangibbons94&show_icons=true&theme=dark&title_color=ffffff&locale=en" alt="ryangibbons94" /></p>
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Custom Creations</h3>
+        <br />
+        <a target="_blank" href="https://www.customcreationsbyangela.com/">
+            <img src="images/angela.gif" width="100%" alt="custom creations"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ryangibbons94/Custom-Creation-by-Angela" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.customcreationsbyangela.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, LESS, CSS & JavaScript</strong> - Static website designed and hand-coded for a small business who sells custom cups, wreaths, pens and more, complete with a built in dark mode.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Do you know things? Lets find out!</h3>
+        <br />
+      <a target="_blank" href="https://random-quizz.netlify.app/">
+            <img src="images/quiztrivia.gif" width="100%"  alt="quiz"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ryangibbons94/quizgame" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://random-quizz.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript & an API</strong> - A web app that fetches trivia questions from an API and returns them to the user. It keeps track of their score using local storage and will give an endless number of questions upon request.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Clicker Predictor</h3>
+      <br />
+        <a target="_blank" href="https://clicker-predictor.netlify.app/">
+          <img src="images/clicker.gif" width="100%" alt="clicker"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/ryangibbons94/clickerpredictor" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://clicker-predictor.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, Chart.js & Regression.js</strong> - A web app that allows the user to test their click speed and updates a graph in the DOM with a prediction using linear regression from their previous rounds.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Coming Soon</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="https://image.shutterstock.com/image-illustration/coming-soon-neon-sign-purple-260nw-1454233298.jpg" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Technologies Used</strong> - Desctiption about project here.</p>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryangibbons94&theme=dark" alt="ryangibbons94" /></p>
 
+<h1 align="center">Technologies</h1>
+
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LESS&color=2b625f&style=plastic&logo=less"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CHART.JS&color=316c5e&style=plastic&logo=chart.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=cbb148&style=plastic&logo=figma"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cbb148&style=plastic&logo=node.js"/>
+</p>
+
+
+
+---
+
+
+<h1 align="center">Connect</h1>
+
+
+
+<p align="center">
+<a href="https://www.ryangibbons.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rygibbons/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/RyGibbons" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/ryan-gibbons-7" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://www.ryangibbons.dev/Ryan%20Gibbons%20Software%20Engineer%20Resume.docx.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>

@@ -150,3 +150,9 @@ See [my website](https://www.ryangibbons.dev/) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+
+<h1 align="center">GitHub Stats</h1>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ryangibbons94&show_icons=true&locale=en" align="center" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangibbons94" align="center" width="40%"/>
+</div> 

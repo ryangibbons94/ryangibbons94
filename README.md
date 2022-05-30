@@ -122,6 +122,7 @@ See [my website](https://www.ryangibbons.dev/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
   <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=cbb148&style=plastic&logo=figma"/>
   <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=cbb148&style=plastic&logo=node.js"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=cbb148&style=plastic&logo=tailwindcss"/>
 </p>
 
 

@@ -47,22 +47,22 @@ See [my website](https://www.ryangibbons.dev/) for more information!
         <p><strong>HTML, LESS, CSS & JavaScript</strong> - Static website designed and hand-coded for a small business who sells custom cups, wreaths, pens and more, complete with a built in dark mode.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Do you know things? Lets find out!</h3>
+      <h3 align="center">Math Quiz</h3>
         <br />
-      <a target="_blank" href="https://random-quizz.netlify.app/">
-            <img src="images/quiztrivia.gif" width="100%"  alt="quiz"/>
+      <a target="_blank" href="https://math-quizz-app.netlify.app/">
+            <img src="images/mathapp.gif" width="100%"  alt="math app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ryangibbons94/quizgame" target="_blank">
+  <a href="https://github.com/ryangibbons94/mathquizapp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://random-quizz.netlify.app/" target="_blank">
+  <a href="https://math-quizz-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript & an API</strong> - A web app that fetches trivia questions from an API and returns them to the user. It keeps track of their score using local storage and will give an endless number of questions upon request.</p>
+        <p><strong>Node.js, Express, React, TailwindCSS</strong> - A full stack web application that serves a randomized math question from an API I built with Node.js and Express. The front end is made using React and TailwindCSS.</p>
     </td>
   </tr>
   

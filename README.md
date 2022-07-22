@@ -87,7 +87,7 @@ See [my website](https://www.ryangibbons.dev/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Fit Track Appp</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://fit-track-appp.herokuapp.com/">
           <img src="https://github.com/ryangibbons94/fit-track-appp/raw/Main/fitapp.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />

@@ -85,22 +85,22 @@ See [my website](https://www.ryangibbons.dev/) for more information!
         <p><strong>HTML, CSS, JavaScript, Chart.js & Regression.js</strong> - A web app that allows the user to test their click speed and updates a graph in the DOM with a prediction using linear regression from their previous rounds.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Coming Soon</h3>
+      <h3 align="center">Fit Track Appp</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="https://image.shutterstock.com/image-illustration/coming-soon-neon-sign-purple-260nw-1454233298.jpg" width="100%" alt="Matching Cards"/>
+          <img src="https://github.com/ryangibbons94/fit-track-appp/raw/Main/fitapp.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/ryangibbons94/fit-track-appp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://fit-track-appp.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Technologies Used</strong> - Desctiption about project here.</p>
+        <p><strong>React, MongoDB, Mongoose, Express, Node.js</strong> - A full stack web application that allows users to create and account and save a log of their body weight to track their progress over time.</p>
     </td>
   </tr>
 </table>
